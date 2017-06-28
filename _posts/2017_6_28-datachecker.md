@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'VSBP Data Intregration'
-subtitle: 'Info Aid'
+title: 'DataChecker'
+subtitle: 'Data Validationn'
 author: 'Linda Roesch'
 header-img: "img/posts/infoaidheader.png"
 comments: true
