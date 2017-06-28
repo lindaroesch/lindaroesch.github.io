@@ -6,7 +6,20 @@ author: 'Linda Roesch'
 header-img: "img/posts/infoaidheader.png"
 comments: true
 tags:  
-- CodeMonkey
+  - CodeMonkey
 ---
 
 ##  R.A.T.S. Reporting Architecture and Tracking System  
+##  R.A.T.S. Reporting Architecture and Tracking System  Seoul Virus Outbreak Info Aid
+For my Public Health Informatics Info Aid I worked with the Virus Special Pathogens Branch (VSPB) on the Seoul Virus Outbreak Virus Outbreak.
+At the time there was about 15 states under investigation; 17 people infected in 7 states, started from a a home-based rodent breeder in Wisconsin first to test positive for Seoul virus.
+## Context![Context](/img/posts/infoAid-context.png)Lots of stakeholders
+## ProblemVSPB asked for support to develop a database that would be able to merge/manage data from different database systems (state data as well results coming in from lab). Easy....
+Not so easy.
+* Most information was not machine readable (pdfs and faxed documents)
+* Method of collecting data from the states not standardized 
+* Data elements not standardized
+* Each epidemiologist had their own way of collecting and organizing information they received from the states
+* Info Aid was requested in the middle of investigation; limited the opportunity to change current process
+## Solution
+**Database managed and automated by Excel Power Query**
